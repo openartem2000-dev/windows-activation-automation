@@ -1,0 +1,8 @@
+package-lock.json linguist-generated
+*.yml linguist-detectable=false
+public/**/*.html linguist-vendored
+*.yaml linguist-detectable=false
+*.astro linguist-detectable
+
+src/**/*.astro linguist-detectable
+# eof 65cbd7f5

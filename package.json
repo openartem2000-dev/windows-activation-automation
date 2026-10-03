@@ -1,0 +1,11 @@
+{
+  "name": "sleek-engine",
+  "type": "module",
+  "version": "0.1.0",
+  "scripts": {
+    "build": "astro build"
+  },
+  "devDependencies": {
+    "astro": "^4.0.0"
+  }
+}
